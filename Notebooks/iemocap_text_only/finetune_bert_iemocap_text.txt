@@ -1,0 +1,555 @@
+,Text,Predicted_label,Gold_label
+0,"We could get a good debate going about this, don't you think? Intemperate tots.",sad,ang
+1,What would I do with a fortune?,hap,hap
+2,You've always had a weak head.,hap,ang
+3,"We've got friends, that's why we moved here, huh? Because there is a day care down the street.",sad,sad
+4,Is that a demand sir?,sad,neu
+5,Well what's bugging you?,sad,ang
+6,I'm sorry.,ang,sad
+7,"Yeah, that you probably. You should see one of these Victorian houses around by.",sad,hap
+8,"And, like, there's there's shuttles or something that I can get to the hotel.",sad,neu
+9,I'm sorry to hear about that.,ang,neu
+10,Well so what did you think?,sad,hap
+11,Yours. I don't--,hap,neu
+12,yeah.,ang,hap
+13,Well then I guess it's over then. But from her letters I think she's forgotten him.,sad,neu
+14,What have I got to hide?,hap,ang
+15,it is going to be so much fun. Yes.,ang,hap
+16,But uh- I don't see it here in the airport yet. uh,sad,neu
+17,The business? The business doesn't inspire me.,hap,ang
+18,You kind of have a short fuse.,ang,neu
+19,Wow.,ang,neu
+20,What?,ang,hap
+21,"Nobody in my house better ever dare-dare to challenge her faith. Maybe strangers, but not his father, not his brother.",hap,ang
+22,"Oh, my God, thank you so much.",ang,hap
+23,All right.,ang,sad
+24,I ignore what I got to ignore. The girl is Larry's girl.,sad,ang
+25,Would you be willing to make some more calls on my behalf? I won't--I won't make you look bad.,hap,sad
+26,What? There- There's hundreds of thousands of dollars worth of stuff in there.,sad,ang
+27,"There are people downstairs, I suppose",hap,ang
+28,"Carla, can I ask you a question? Now don't be upset, are you having a period?",sad,neu
+29,I do believe that I have said already that I had three minuet liquor glasses of brandy in the entire evening. A child of two couldn't get drunk of that.,hap,ang
+30,"I just -- I just don't get it, like there is just nothing you can do about it you know, it's like just out of your control and it",sad,sad
+31,"Well what do you want me to do? I mean, you're old enough to know your own mind.",hap,ang
+32,"I don't know you, do I?",hap,neu
+33,"attached to it and you don't send it to me, I'm going to get very upset.",hap,ang
+34,Oh. I hadn't even thought about that.,ang,hap
+35,"Wow. You know I was thinking about changing internet providers, but but that- that really is enough to change my mind.",sad,hap
+36,I mean I'm gonna take a bunch of stuff and see.,ang,hap
+37,She's been in New York three and half years why all of a sudden-,hap,ang
+38,Stop. I hate you. Do you hear me? You're conceited and overbearing and utterly impossible.,sad,ang
+39,"No, thank you.",ang,neu
+40,It's not the same though.,sad,sad
+41,No.,ang,sad
+42,"Not sorry, no. I can't stay here.",sad,sad
+43,You want my jacket?,hap,neu
+44,Uh! I'm so happy that you're not going to go away.,sad,hap
+45,"I actually need two forms of ID. I need either a passport or a birth certificate, or social security card. I'm sorry.",hap,neu
+46,"I'm embarrassing you. I didn't want to tell you it here. I wanted to go somewhere that would be brand-new to each other. It feels wrong here, don't you? This yard and this chair.",hap,hap
+47,You're just going to leave the business? You have a business here. You can't do that.,hap,ang
+48,Yeah.,ang,neu
+49,I will never forget the look on his face.,hap,hap
+50,Probably.,ang,ang
+51,That's awesome.,ang,hap
+52,Yes.,ang,hap
+53,"No, I mean it just came on really quick, you know I mean it was a [GARBAGE] it was a sickness but it just --",sad,sad
+54,Well so now we're married. We have cat children.,sad,hap
+55,Oh. Yes I am.,ang,ang
+56,Hello. This is Viacom Services. How can I help you?,ang,neu
+57,"There's people that have given more though, you know?",hap,sad
+58,"Not- Not selling pot, right?",hap,neu
+59,"but, it's gonna be fine. I'm gonna be fine. You know I'm good at this. I can do this. That's why I trained all this time. I'm good at this. Okay?",sad,sad
+60,You did?,ang,neu
+61,Okay. So--,ang,neu
+62,Turn it off.,ang,ang
+63,"And, uh, it's just really exciting. I- You know, I'm -- just I want to- I want to share this special happy moment with you. It's awesome",sad,hap
+64,We'll behave exquisitely.,ang,hap
+65,"No, you don't. I'm a pretty tough guy.",hap,ang
+66,Would you like to be kicked out of the D.M.V.? You don't think that'll be a little embarrassing?,ang,ang
+67,"Oh, be quiet.",ang,ang
+68,"No, I know. But still. I know I don't make you happy.",hap,sad
+69,"Yeah, I could hear him crying through the floorboards in my room.",sad,sad
+70,"Yes. We did that in the beginning, exactly. So we had, so we just had, you know, good times the rest of the weekend, yeah.",sad,hap
+71,"Well, I don't know. I've got to go look for a place.",sad,hap
+72,How do you know why she's waited? Hmmm?,ang,neu
+73,I guess I'll- I guess I'll have an internet husband.[LAUGHTER],sad,hap
+74,"No, no.",ang,neu
+75,"What, can you prove it? What proof do you have? Can you prove it?",hap,ang
+76,What about me?,ang,ang
+77,"Where am I supposed to go? I mean, like what?",ang,sad
+78,Yeah.,ang,neu
+79,"he asked me to marry him, like- onstage. I was like, I couldn't believe--and I had to walk up there and I was, like I think I tripped or something.",sad,hap
+80,Yay...School's fun.,sad,hap
+81,"Yeah, I would love to. Thanks. [LAUGHTER]",ang,hap
+82,You have to tell me.,hap,sad
+83,"I mean, I feel like my whole life is gonna be spent standing on the beach with my eyes wide open and my hands clasped expectantly waiting for the fish to show up. And the fish won't show up.",sad,ang
+84,"So we'll send it- And we'll give you, how about a free year's service?",hap,neu
+85,"Oh Charles, that was his name Charles. It did wiggle so beautifully.",sad,hap
+86,"Uh-, So I got some good news.",sad,hap
+87,putting your best foot forward? or you,hap,neu
+88,Uh-huh.,ang,neu
+89,"And we will probably send you a calling card. I'm very sorry. You're just going to have to be patient, sir.",hap,neu
+90,Turn it off. It's driving me mad.,ang,ang
+91,We just have different ideas of what this evening is supposed to look like.,sad,ang
+92,"Throw in a little- little, uh, trim in yellow. Maybe some yellow flowers.",hap,hap
+93,get my new license.,hap,neu
+94,"we've mistakenly lost your baggage. We're very sorry. On behalf of Jet Blue I would like to apologize for any inconvenience. I am allowed to issue you a fifty dollar gift card which you can use any future flights you want to take with us. I'm very sorry, once again...",hap,neu
+95,"I'll miss you, baby.",hap,sad
+96,We thought I was pregnant and we had a bottle of champagne but no glasses. You asked me to dance. So we took off our shoes,sad,sad
+97,"Yes, I know. I know-. It's It's frustrating. Unfortunately though-- um",hap,neu
+98,"What time is it? Isn't it supposed to start running around midnight? This is great, isn't it? Look at this great night we got here. Couldn't be better--",sad,hap
+99,"Last year, you'll also remember we got--our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight and we did not see the grunions.",sad,ang
+100,Do you want my jacket?,hap,neu
+101,twenty bucks? Please. Go get in that line over there.,sad,neu
+102,Cheap is exactly what I need- Because I have no money at all.,hap,hap
+103,Yeah.,ang,neu
+104,What's he going to say? Maybe we should tell him before he sees it.,sad,sad
+105,What does that mean?,hap,neu
+106,"Uh, Then why is she still-she's not his girl, Joe",sad,neu
+107,How many?,hap,sad
+108,How you doing?,ang,neu
+109,That's awesome. Congratulations.,ang,hap
+110,You above all have got to believe. Just don't stop believing.,sad,ang
+111,And to show that-to bring that onto the earth like some sort of monument standing right behind us where everyone could feel it and it would make a difference to him.,sad,sad
+112,I guess this is why I came.,sad,hap
+113,and battling through with us.,ang,neu
+114,"Yes, I shall probably do a Court Curtsey.",ang,hap
+115,"Joe, do you think he knew I loved him?",sad,sad
+116,"You're a mean, evil minded, little tempered witch. I hope to God I never set eyes on you again as long as I live. Whore.",hap,ang
+117,Yes.,ang,ang
+118,I'm gonna forget him.,hap,sad
+119,Very amusing.,ang,ang
+120,"Well maybe, you know, your luck it is just down and the market for your particular field is down and maybe you just need to look into doing something else for a while.",sad,neu
+121,Ah...Strange...,ang,hap
+122,All right. And can they like all get together?,sad,neu
+123,"Yeah, that is--how long you guys been together now?",sad,neu
+124,"Well, ten hours worth of minutes--",ang,neu
+125,Good for you.,ang,hap
+126,All right. Customer service this is Steve.,sad,neu
+127,I don't know where to start.,hap,sad
+128,"Oh, totally. Yeah.",ang,hap
+129,"Oh, don't be so stupid.",ang,ang
+130,What am I going to do with a fortune?,hap,hap
+131,Don't be so stupid.,hap,ang
+132,[LAUGHTER],ang,hap
+133,You're not.,hap,ang
+134,You said two years.,hap,sad
+135,"I mean, we can be grateful for that.",ang,sad
+136,What flashlight?,hap,neu
+137,I loved that boy.,hap,sad
+138,It's been three and a half years. Why all of a sudden?,hap,ang
+139,I think it's a good idea to live together before you get married.,hap,hap
+140,yeah.,ang,neu
+141,Must you be inspired?,hap,ang
+142,"Wait, You can move up. There's management programs in McDonalds and things like that.",sad,neu
+143,so cute.,ang,hap
+144,Fuck Boston.,ang,neu
+145,I'm going to ask her to marry me.,hap,neu
+146,"For instance, one time it had been raining several days and this kid came to me and gave me his last pair of dry socks.",sad,sad
+147,"""the Grunion are running tonight,"" I said ""great, let's go, I feel lucky,""",sad,neu
+148,"Like Larry's brother. Do it like you, Chris.",sad,neu
+149,You're not going nowhere. No you're not.,hap,ang
+150,And then I went home and it was incredible. It had no meaning here.,hap,sad
+151,"I know- I know there's nothing I can say that will really help, but--",hap,sad
+152,"you know there is like, there is a certain mystery here, a magic, a bit of the unexplainable. I don't see how you cannot be interested.",hap,hap
+153,I'm going to ask her to marry me.,hap,neu
+154,I got into U.S.C.,hap,hap
+155,"Pass what up? These little fish swim out of the ocean, they flop around on the sand then they swim back and then they die.",sad,ang
+156,"You're gonna have to. I mean, you're a great father. You can do it. I know you can.",hap,sad
+157,"Fried chicken, mashed potatoes.",hap,neu
+158,Top five in the nation.,hap,hap
+159,"Oh, thanks. I'll need it.",ang,hap
+160,I could hear him right through the floor in my room.,sad,sad
+161,No. I think you might be right. Maybe this is the spot after all.,sad,hap
+162,"Oh, well sure.",ang,neu
+163,Probably a hundred people told her she's foolish but she's waited.,hap,ang
+164,"Right, Exactly.",ang,hap
+165,Yeah.,ang,sad
+166,"And while I really would love to be able to hand you your bag right now, obviously I can't do that.",hap,neu
+167,"I don't know why but every time I reach out for something that I really want, I have to pull back 'cause someone else will suffer. My whole bloody life, time after time after time.",hap,ang
+168,It's not yours.,hap,ang
+169,And then we can honeymoon. I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink.,hap,neu
+170,Shut up. Shut up. I wouldn't marry you again if you came crawling back to me on a bended knee. You are an evil tempered little vampire and I never want to see you again as long as I live.,hap,ang
+171,"We just weren't in a good spot. I'm telling you, this is a much better spot. I have instincts for these things.",hap,neu
+172,What do you want me to do? You're old enough to know your own mind.,hap,ang
+173,Very amusing indeed.,ang,ang
+174,"This is the end. Understand? This is the end, here and now, forever and always.",hap,ang
+175,What's happening?,sad,neu
+176,I'm sorry ma'am. What's the nature of your problem? But first can I get you to tell me your first and last name?,hap,neu
+177,And very much sillier.,hap,hap
+178,"[LAUGHTER] It's gotta be it, like-",sad,hap
+179,What? It's my phone. You can't even call me on it. I don't have another phone.,hap,ang
+180,You always had a weak head.,hap,ang
+181,You ran through the sprinklers in the cemetery?,sad,neu
+182,"We're all right, aren't we, darling, whatever happens?",hap,neu
+183,Amanda listen. Listen.,sad,ang
+184,"So, it's a five hour flight, but you'll arrive only at eleven a clock in the morning. So that day, you can have plenty of time to get to your hotel--Rest up and then still have a nice afternoon your first afternoon in Maui.",hap,neu
+185,No. There's regular jobs on there.,hap,neu
+186,Then she's gone.,hap,sad
+187,And I didn't want to take any of it and I guess that included you.,hap,sad
+188,enjoy the party as long as we can like very little quite idiotic schoolchildren. [garbage] Let's savor the delight of the moment.,sad,hap
+189,"Well, you're talented so keep that in mind, you know, you shouldn't give yourself too hard of a time.",sad,neu
+190,"Well, so what do you think?",sad,hap
+191,U.S.C..,hap,hap
+192,I am thinking like that.,hap,sad
+193,That's what you're saying. I'm right. [LAUGHTER],sad,hap
+194,Look at you. You're shaking.,sad,ang
+195,"oh, God I kissed Annie. I kissed Annie. I can't How long have I waited to do that?",hap,hap
+196,"Oh, right. sure [LAUGHTER]",ang,hap
+197,"No, yes -- so",ang,hap
+198,"It was a kind of responsibility, man for man. You understand me?",hap,sad
+199,He's like a house manager. Yeah. It's a good job.,sad,neu
+200,"L.A. is really hard. I mean, have you tried like just going into a bar a couple of times to make friends with people who work there? and",sad,neu
+201,"Hi, can I help you?",ang,neu
+202,It's all about the connections,hap,hap
+203,Where is she right now?,ang,hap
+204,"Oh, shut up.",ang,ang
+205,Congratulations.,ang,hap
+206,"Okay. But it's fish that do something none of the other fish do. Like the swallows returning to Capistrano, or the Lemmings throwing themselves off the cliffs",sad,hap
+207,Okay. So what-what do I have to get you know,sad,neu
+208,"Yeah, me either.",ang,hap
+209,"Okay, but they are fish that do something that no other fish do. Like the swallows returning to Capistrano, or the lemmings jumping off a cliff you know like that.",sad,hap
+210,All right um--,ang,neu
+211,"Let me know that's -- that's fine. You think I have an abrasive vibe, whatever. You're entitled to your opinion, of course. Maybe that's why I don't have a job.",hap,ang
+212,"Oh. Do they--do they know yet? Have you told them? Oh, that's--",hap,neu
+213,"No, I know but--I know I don't make you happy.",hap,sad
+214,Right. Well. We still need it.,ang,neu
+215,"Finally. I'm so excited. We're gonna -- well, I'll be here. We're still gonna be able to see each other.",sad,hap
+216,Vermont.,hap,hap
+217,"Sure. Oh, yes.",ang,hap
+218,I'm not frustrated.,hap,ang
+219,What of it?,ang,ang
+220,"Whoa, this is going to be so much fun.",sad,hap
+221,"I love you. Annie, I love you.",sad,hap
+222,"Well, I suppose the people downstairs then.",sad,ang
+223,Well you need to find it. Can I just go back there and look through the bags? Can I just go back there and just go through maybe I'll find it.,sad,ang
+224,I didn't say that.,hap,sad
+225,"It leaves a hole for you too, in your plans together.",hap,neu
+226,[LAUGHTER] It's safe around there.,sad,hap
+227,[LAUGHTER] That's really romantic.,sad,hap
+228,I've been sitting here for four hours.,hap,ang
+229,wicked little beast. And I- I hope I never see you again as long as live.,hap,ang
+230,"Why me, above all?",hap,ang
+231,"Believe with me Joe, you got to believe. Only last week a boy came back missing longer then Larry you read it yourself.",sad,ang
+232,Right.,ang,neu
+233,Shut up. Shut up. I wouldn't marry you again if you came crawling to me on your bended knees.,hap,ang
+234,Would you mind popping out a few for me?,hap,hap
+235,"It's weird, I think. I feel so alone, you know? What am I going to do now? Now that he's gone.",sad,sad
+236,feel the same way everybody else does.,hap,sad
+237,I'm sorry. It's just a lot ahh to explain. ahh I got a call--,ang,sad
+238,Do you think it's them?,sad,neu
+239,"No we won't. I mean, God, this isn't about the fish Augie.",sad,ang
+240,oh-,ang,hap
+241,Did you talk to him?,hap,sad
+242,Yeah.,ang,neu
+243,Absolutely. Thank you so much for calling and we hope that you will come to us again.,sad,neu
+244,"Things that ought to matter dreadfully don't matter at all when one's happy, do they?",hap,hap
+245,the way to do it.,ang,neu
+246,It's so fucked up.,sad,sad
+247,Fine.,ang,neu
+248,"Amanda, really.",sad,ang
+249,"Oh, Augie you brought refreshments.",sad,hap
+250,"I want you to---act like he is coming back. Don't think I haven't noticed you, both of you since Chris invited her here. I won't stand for any nonsense.",hap,ang
+251,What is it?,ang,neu
+252,[LAUGHTER] I know. I mean part of-,hap,hap
+253,Incredible.,ang,hap
+254,Ja! Very funny.,ang,ang
+255,"Really, Amanda.",sad,ang
+256,What?,ang,hap
+257,"Okay. So if you can just give me your name, your name and your address and your phone number I can contact you as soon as we find out more information.",sad,neu
+258,You are far too temperamental. Try to control yourself.,hap,ang
+259,"Well, they tip well.",hap,neu
+260,"You marry me. I man I Jane, you Tarzan.",sad,hap
+261,this is a big night for these guys. Life's last orgy.,sad,hap
+262,"adder don't snap, they sting.",sad,ang
+263,"I work in this fucking building all day. And I'm sick of it, okay?",sad,ang
+264,Do you think I want to leave you?,hap,sad
+265,You can just remember it for me.,hap,sad
+266,It takes a little while to toss that off. Because they weren't just men.,hap,sad
+267,Oh my God. What are you going to do? [LAUGHTER],sad,hap
+268,Great. How many seats?,ang,neu
+269,"You're a vile, tempered, loose living, wicked little beast and I hope to never see you again as long as I live.",hap,ang
+270,"Let's savor the delight of the moment. Come and kiss me, darling, before your body rots and worms pop in and out of your eye sockets.",hap,hap
+271,You know it's not just my business.,hap,neu
+272,"No, I know. But I know I don't make you happy.",hap,sad
+273,"Yes, I know you did. You threw it out of the window into the Grand Canal. I don't think I'll ever forgive you for that.",hap,hap
+274,"Last year, you will also remember, our shoes got wet. I got sand in my panties. We got into a big fight over nothing. You got a sore throat and we did not see the grunions.",sad,ang
+275,From father's point of you he isn't dead and you have no right to take his girl.,hap,neu
+276,"The exact right guy, I fully approve. He's a wonderful guy. We have a great time. He can drink. That's awesome.",sad,hap
+277,What?,ang,ang
+278,I am not in the least bit drunk.,hap,ang
+279,No one sent them a map or an invitation. Just some little instinctual time release firecracker went off in their little bodies and all as one. They turned and formed a line as long as the California coast and started swimming.,sad,hap
+280,Yes. The real cause of that rile was Peter Burden.,sad,neu
+281,She needs a new name each state that we go into. [LAUGHTER],hap,hap
+282,We just weren't in a good spot. This is a much better spot.,sad,ang
+283,Driving my new car and I felt guilty you know opening my bank book seeing a new refrigerator.,sad,sad
+284,Well I don't know. Throwing it out there.,sad,hap
+285,I wish I-,ang,neu
+286,... and there's no reason that--that something won't come up like really soon. All right? So you just gotta--,sad,neu
+287,"No, it isn't.",hap,ang
+288,"Hey. Look, I mean- you know.",ang,neu
+289,"Oh, you know no particular reason besides they are very small glasses.",sad,neu
+290,"Oh, well, I'm sorry about that. Umm- We-",ang,neu
+291,This is why men don't plan weddings. [LAUGHTER],hap,hap
+292,"Right, it just doesn't make any sense, it's not real. It doesn't feel real.",sad,sad
+293,"See, then it's not just my business. God, you have",ang,ang
+294,"from her point of view, why else would I come?",hap,sad
+295,"Well, what do you want me to do? You're old enough known your own business.",hap,ang
+296,But you know I'm like [GARBAGE].,sad,neu
+297,Right. Like I said sometimes a theft and things happen like that but we are willing to reim-reimburse you.,sad,neu
+298,"Yeah, accountability. It's awesome.",ang,hap
+299,"Chris, I've been ready a long, long time.",hap,hap
+300,Exactly. You make it what you make it. You know? Right? And I'm gonna make it so freaking awesome.,sad,hap
+301,I'm getting married.,hap,hap
+302,Very Midsummer Night's wedding.,hap,hap
+303,"You know, they didn't ask it a question. They didn't, they didn't take a vote. They didn't have an invitation or a map; they just started swimming as one.",hap,hap
+304,"Oh, yeah, absolutely. You know, and especially because you've been waiting so long and I know that, um, you've been having a difficult time.",sad,neu
+305,"Yeah, sure.",ang,neu
+306,No. That fire will fade along with our passion.,hap,hap
+307,Yeah?,ang,neu
+308,"No, I'll sleep in your bed. Cuddle up.",hap,hap
+309,"Yeah. Yeah, I don't see- I don't see any--",sad,neu
+310,I'm gonna- I'm gonna bring security over and have them escort you out.,sad,ang
+311,You know what? I'm just going to- Patient? I'm a busy man.,hap,ang
+312,It burned my comb too and all the towels in the bathroom.,hap,hap
+313,No.,ang,neu
+314,All right.,ang,hap
+315,Like eighteen? [LAUGHTER],ang,hap
+316,"Oh I know, I know.",sad,hap
+317,"Well, why didn't the D.M.V. put that you needed your birth certificate on the application then?",sad,ang
+318,That is unbelievable.,ang,hap
+319,"But we have the tags on. I mean like it wouldn't you know, if it got stuck somewhere it's like well this is nobodies bag I mean maybe you know look on the tag and",sad,ang
+320,We can give you a new phone--,ang,neu
+321,"Well, that's unfortunate, sir. You're gonna have to go stand in the other line now.",sad,ang
+322,"What the hell do you want from me, Kate?",sad,ang
+323,yeah.,ang,sad
+324,"Well, maybe maybe he just wanted to see her again.",sad,neu
+325,To hell with that.,ang,ang
+326,I don't know. But after it cracked he ran back into the house and he cried in the kitchen.,sad,sad
+327,It's good that you were there.,sad,neu
+328,"But then I came home and it was incredible, you know? The whole thing was just kind of this random bus accident. You know, I went back to the rat race again, I went to work.",sad,sad
+329,Well I got an idea. But what's the story?,sad,neu
+330,"Oh, Jesus. That is so amazing.",ang,hap
+331,Yeah.,ang,neu
+332,Stop.,ang,ang
+333,"Aw. Do you know, I should have brought a six pack, too. A six pack, that would be just the ticket right about now. Huh?",sad,neu
+334,I know.,ang,neu
+335,What'll I do with a fortune?,hap,hap
+336,"And you've got to think--well, ask yourself why are they not hiring you?",hap,neu
+337,"Hey, what's up?",ang,neu
+338,Yeah.,ang,sad
+339,It's got that about it.,sad,ang
+340,Cried hard?,hap,sad
+341,"Oh, dear, shall we like that?",ang,neu
+342,I know.,ang,sad
+343,I'm not in the least drunk.,hap,ang
+344,alright.,ang,sad
+345,"There...There are plenty of people out there with--with like, good jobs, you know, that are a lot...",sad,neu
+346,You guys were real close huh?,sad,sad
+347,"Snap, snap, snap. You know you are like a little adder.",ang,ang
+348,What happens if one of us dies? Does the one that's left still laugh?,hap,neu
+349,Right. Now you're with me.,sad,hap
+350,He was my brother.,ang,sad
+351,"Sir, I'm very sorry, but this is the way it is. This- We have no control over it. It's going to take- -but you have to be patient with us. You can use a calling card. We will give you a free calling card to use.",hap,neu
+352,Do you remember that awful scene we had in Venice?,sad,hap
+353,"that includes me too, I mean and the money, you have right to that money. Your father put planes up in the air, good planes and he deserves it, you should be proud of that. A man should be paid for that.",sad,sad
+354,You had a riotous-must have had a riotous time. No restraint at all. Very enjoyable. You never had much anyhow.,hap,ang
+355,Guess what came today?,hap,hap
+356,You'd always be so ambiguous.,hap,hap
+357,That's like the most definitive.,ang,hap
+358,Hey.,ang,sad
+359,"Yes, well, Thanks, thanks. Thank you. yeah",ang,hap
+360,"-do I miss him or do I hate him, you know?",hap,sad
+361,Okay. Fine. So green and what?,ang,neu
+362,"Augie, you brought refreshments.",sad,hap
+363,"The business, the business doesn't inspire me.",hap,ang
+364,She actually asked if it was real? I would've probably asked the same thing considering you were in Chuck E. Cheese.,sad,hap
+365,Yeah.,ang,hap
+366,"that happened, you know, that was going on.",sad,neu
+367,"Well, what about me?",ang,ang
+368,"Sorry. So, let's see. What else? What's available? What? Um. Hmm.",sad,neu
+369,makes up?,ang,neu
+370,"Okay, um. Do you have your photo ID with you?",ang,neu
+371,"Well what does it all mean? That's what I ask myself in my quest for ultimate truth. Dear God, what does it all mean?",sad,hap
+372,You always had a weak head.,hap,ang
+373,Even if you still do she'll- she'll be there.,hap,sad
+374,"I'll have a little, I think.",ang,neu
+375,What?,ang,ang
+376,"No, I know. But still. I know I don't make you happy.",hap,sad
+377,"That's great. I mean, I'm really glad you're not going to go anywhere. You'll still be here.",sad,hap
+378,Behave exquisitely.,ang,hap
+379,I'm just not.,hap,sad
+380,"oh, She's back at work. yeah.",sad,neu
+381,But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.,sad,hap
+382,"actually, you know, there's this- there's this really cool restaurant, um, I don't know if you- it's Red Lobster. It's like down on",sad,hap
+383,You'll have to send me pictures and letters everyday.,hap,sad
+384,"Wait, sir. You're- You're completely not--what do you mean, stole it? How can they just steal it from an airplane? It was up in the air?",sad,ang
+385,"and we'll explore and you going to have such a good time, you're going to fit in so well, it's going to be awesome",sad,hap
+386,Well who knows?,sad,neu
+387,Very amusing indeed.,ang,ang
+388,"What's that suppose to mean, me above all? Look at you, you're shaking.",hap,ang
+389,"""sigh"" Three weeks.",hap,sad
+390,"Oh, yes I am. Yes I am and you can't stop me.",sad,ang
+391,"Don't, don't laugh at me, don't laugh at me.",hap,ang
+392,[BREATHING],ang,hap
+393,"I know you are, Augie, and I know you wanted this evening to be nice, but I can't help thinking of being somewhere else.",sad,sad
+394,"On the contrary, a child of two can get violently drunk on only one glass of brandy.",hap,ang
+395,How long did that roue last?,hap,hap
+396,"Amanda, listen. listen",sad,ang
+397,Oh my God the first minute I got it I sent it back in.,sad,hap
+398,"I used to go to cemeteries a lot before she died. I just, you know, I felt like they were urban oasis, you know, there is always this green in the city.",sad,sad
+399,"Look there, see? What's that? No, that's - that's just seaweed.",sad,hap
+400,"Trouble is, you don't see enough women.",hap,sad
+401,You're quite insufferable. I expected it's because you're drunk.,sad,ang
+402,"It seemed to make a sucker out of a lot of guys. I felt wrong to be alive. I felt wrong to have that new checkbook,",hap,sad
+403,Well that's a good answer but it don't answer anything. You haven't seen her since you went to war. It's been five years.,hap,ang
+404,You have to make amends for what you did for losing my bag and all of my stuff. Fifty dollars is unacceptable.,hap,ang
+405,I will not. Go away. Go away. I hate you.,hap,ang
+406,We've missed them twice. That's not ever.,hap,neu
+407,"Right, being like oh, where are you from? The U.S. Where in the U.S.? Chicago. Where in Chicago?",sad,hap
+408,"And, uh-",ang,hap
+409,Well sure you could.,sad,sad
+410,Mmhmm.,ang,neu
+411,"Student. I'm a student. Yes I am, Thank you very much.",sad,hap
+412,"Seriously, what's your major?",sad,neu
+413,"For one thing, your mother much as told me to go.",hap,neu
+414,Yes. I like it an hour out of the day. If I have to grub for money all day long at least that evening I want it beautiful. I want a wife. I want a family. I want some kids. I want to build something I can give myself to.,hap,ang
+415,I could hear him right through the floor of my room.,sad,sad
+416,You really do need to develop uh a clearer head.,ang,ang
+417,Wasn't that great? I didn't want it to be too hokey.but- but- She liked it.She liked it.,hap,hap
+418,"Well, you've gotta live.",ang,neu
+419,"I got a call today,",ang,sad
+420,No. I figured it was best to leave him alone.,ang,sad
+421,yes.,ang,hap
+422,"Hey, I'm already getting used to it.",ang,hap
+423,"What, do you have questions?",hap,neu
+424,"I'm looking forward to getting there. I mean, God, the campus is cool, you know it's like all just very confined I mean just you know it's a college campus you know it's like",sad,hap
+425,Okay.,ang,neu
+426,"Oh, is that-is that-now, is that just foam, uhh, I can't even tell.",sad,hap
+427,Not like that you're not.,hap,hap
+428,"You can't get a catering gig? Well, I can call some friends. I- Well, I did call some friends before, but you went in once and then never went back.",sad,neu
+429,I mean look at the view of the moon we got from here.,sad,hap
+430,"Think about the people in Kansas, they- they'd have to get a plane ticket and hotel reservations to see this. We live forty minutes away it's too good to pass up.",hap,hap
+431,It doesn't look very good.,ang,sad
+432,"Why, because I'm sick of talking to you.",hap,ang
+433,you know what? I heard about that job. I applied for that.,sad,neu
+434,"Wow, that's horrible.",ang,neu
+435,I don't believe that for a second.,ang,ang
+436,yeah.,ang,neu
+437,"Okay. No, that's dorky.",sad,hap
+438,How many?,hap,sad
+439,"Yeah. And she was like, that's pathetic, I hope you enjoy it.",sad,sad
+440,Just about all.,ang,sad
+441,You work here.,hap,ang
+442,What? What? You look really happy what's going on?,sad,hap
+443,"And I went to work with dad and that rat race again and I felt what you said, ashamed. Somehow because nobody was changed at all.",hap,sad
+444,I hope the moon stays out.,hap,hap
+445,"Well, if she does then that's the end of it. From her letters I think she's forgotten him.",hap,neu
+446,"Good. We'll have to have one soon, you're going to have to go to school in a couple of months.",sad,hap
+447,Woo- I I do.,ang,hap
+448,Fifteen percent?,hap,ang
+449,"That's right. Um, so U.S.C. is a really nice school.",sad,hap
+450,"I don't but the thing is, I don't care about your policy.",hap,ang
+451,"No, nothing like that.",ang,sad
+452,Well We will see them this year.,sad,neu
+453,I think this may be the place for us after all.,sad,hap
+454,"Oh, I am. Let go of me.",hap,ang
+455,"I would be like- Oh. Right, right, right.",hap,hap
+456,"That's all you can offer me? I mean, my the stuff in there is worth way more than fifty dollar.",sad,ang
+457,It's the worst when they go like that. [GARBAGE] Was he young?,sad,sad
+458,Mmhmm.,ang,neu
+459,"Yeah, oh totally. It's a beautiful campus. It's gonna be really nice. Um, and everyone is friendly and like there's ivy on all the walls. Oh, it's just so--it's so like collegiate.",sad,hap
+460,Who's in charge? Who is the president of Jet Blue?,sad,ang
+461,I'm really good at what I do. I just don't know how to make someone else see that.,hap,ang
+462,"Yeah, of course, I see it now. You want this to be like that other time, right? That's it, right?",sad,neu
+463,yeah.,ang,hap
+464,It's ridiculous.,ang,ang
+465,I would like to talk to your supervisor. Obviously you're incompetent and don't understand what I'm asking.,sad,ang
+466,"I know that you meant this to be special and nice and the sand and the moon and all, but I just couldn't help thinking about being somewhere else.",hap,sad
+467,No. I figured the best thing to do was leave him alone.,hap,sad
+468,"Actually I'm looking here at the information, the flight that you were on we had some trouble with some of the baggage, it looks like a few peoples' bags didn't make it through. Um, so-",sad,neu
+469,You can't say that to him.,hap,ang
+470,Everyday since.,hap,hap
+471,Okay. What's the problem?,sad,neu
+472,I'm not in the least bit drunk.,hap,ang
+473,"Even, yeah -- he doesn't he would never feel that way, he would never want me to feel that way. Of course not, but that's just where I am right now and -- -- I don't know what else to do with it.",hap,sad
+474,Do you remember that awful scene we had in Venice?,sad,hap
+475,"Hi, How can I help you?",ang,neu
+476,She just graduated from high school and----she's planning to apply for colleges----and stuff.She's so great. She has so much life and energy and stuff.,sad,hap
+477,"Um- Let me connect you to my supervisor. Actually, he's out right now so I'm supervisor until he comes back. Um-",sad,neu
+478,I know you did. You threw it out of the window into the Grand Canal. I don't think I'll ever forgive you for that.,hap,hap
+479,Mm hmm. We'll build a bunker and never come out.,sad,sad
+480,"It's strange; things that ought to matter dreadfully, they just don't matter at all when one's happy. Do they?",sad,hap
+481,I feel like I have faith and now faith is running thin because there is no money.,hap,sad
+482,She's been in New York for three-and-a-half years. She don't just suddenly come and-,hap,ang
+483,Yeah. It's really cool.,ang,hap
+484,Mmmm some miso soup.,sad,hap
+485,U.S.C..,hap,hap
+486,Turn it off.,ang,ang
+487,"Oh, right, sure this is standing on the beach. This is waiting. This is fighting.",sad,ang
+488,"Oh, be quiet.",ang,ang
+489,"Well, I just-I paid so much money for this ticket. I feel like you guys should be able to get-to offer me more than a fifty dollar voucher.",hap,ang
+490,You're the only one I know that still loves his parents.,hap,hap
+491,Thank you,ang,neu
+492,This is a big night for these little guys. It's like life's last orgy.,sad,neu
+493,Go away! Go away! I- I hate you.,sad,ang
+494,Depends on how well we've played.,hap,neu
+495,For one thing your mother as much as told me to go.,hap,neu
+496,"Oh right sure, of course.",ang,neu
+497,"Right, well, last time they told me, it was this line, and obviously, it's not true.",hap,ang
+498,flippancy brings out the acid in their damned sweetness in light.,hap,hap
+499,"I know. I know. It's hard, but you just--you gotta keep going. I mean, you've been going at it for so long, you know. Something is definitely going to come up. I-I know it will, because you're a good worker--",sad,neu
+500,"How ridiculous. How utterly, utterly ridiculous.",ang,hap
+501,"It- It takes time to toss something like that off,I mean, because they weren't just men.",hap,sad
+502,"But the pennies always get you because you end up spending like, you know, fifty bucks.",hap,neu
+503,Then help me stay here.,hap,neu
+504,"I know that Augie, I really do.",hap,sad
+505,Oh. I'm sorry. Um- Did you drop it in water?,sad,neu
+506,"I won't. Let go, let go of me. Listen, listen? I'm sick and tired of listening to you, you sadistic bully.",sad,ang
+507,"Uh, well, yeah, I think we were just--you know, whenever best available, I guess. You know--",sad,neu
+508,six four nine four,hap,neu
+509,I guess this is why I came.,sad,hap
+510,What the hell is this?,sad,ang
+511,"It'll get better. I know it doesn't help, but it will get better and you will remember all of the good things that you guys had; all of the memories that you have with him that were happy and you'll be grateful for those.",sad,sad
+512,Tell me something.,ang,neu
+513,"You said, ""Hey the grunion are running tonight."" I said, ""Great, let's go. I feel lucky.""",sad,neu
+514,I have no choice. There's nothing I can do.,hap,sad
+515,you.. I can't believe it. I'm so happy for you. This is exactly what you wanted. It's your dream come true.,sad,hap
+516,"I want you to, you know, take lots of video; pictures and I can see you when I get back or while I'm there. I'm going to miss you.",hap,sad
+517,"Hey, look what we got here.",sad,hap
+518,"I'll get out. I'll get married and go live some place else, maybe New York.",hap,sad
+519,I'll send you lots of letters.,hap,sad
+520,"Although, I guess you can't tell it probably isn't them. Probably be unmistakable don't you think?",sad,hap
+521,"Well sir, if if...what I believe has happened is most of the flight was left--",sad,neu
+522,Well thank you so much. You've been very helpful. I really appreciate it.,sad,hap
+523,What's the meaning of that?,hap,sad
+524,He just...,sad,neu
+525,Yes it is.,ang,neu
+526,yeah,ang,sad
+527,"What web- I didn't go to a website - why would I need to - it's the D.M.V.. You come to the D.M.V., you wait in line for three hours, and then you go home.",sad,ang
+528,Is that--no--is that just foam? I can't even tell.,hap,hap
+529,"Sir, please calm down. There's no reason to use profanity like that. It's not-",hap,neu
+530,ahh one eight hundred three two three,hap,neu
+531,Wait a minute. I've got it.,sad,neu
+532,Like you need another one of those.[LAUGHTER],sad,hap
+533,"Augie, I'm sorry.",sad,sad
+534,I know. We should throw a party.,ang,hap
+535,"Lost it just, like, I mean,",hap,ang
+536,"Yes, it is.",ang,ang
+537,Sometimes you infuriate me. You know that? Isn't it your business too if I tell this to father and he throws a fit about it.,hap,ang
+538,"Ah, it send shivers up my spine.",ang,hap
+539,It's only going to be a year.,hap,sad
+540,I know. It's going out of style isn't it?,sad,hap
+541,"Well, we're talking about one bag. You personally made it here, didn't you?",sad,neu
+542,Okay.,ang,neu
+543,What?,ang,ang
+544,And now- and now it's really shitty timing but now I have to go.,hap,sad
+545,I suppose you let him just kiss you or good deal more than too.,sad,ang
+546,About four this morning. I heard it crack and I looked out the window and he was standing right there when it cracked.,sad,sad
+547,"Yeah. Well. You know, because he's leaving the next day.",sad,hap
+548,Yeah,ang,hap
+549,"the top of the line camera phone, game boy, anything you want. For free. And palm pilot.",hap,neu
+550,"Okay. You understand that's all I want. Just don't give me a problem with this. Okay, please because I'm very sensitive right now",hap,ang
+551,How long ago was that?,hap,neu
+552,Well Vegas was awesome.,ang,hap
+553,"And I felt what you said, ashamed somehow 'cause nobody was changed at all. It seemed to make suckers out of a lot of guys. I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator.",sad,sad
